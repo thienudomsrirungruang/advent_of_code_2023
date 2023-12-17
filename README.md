@@ -11,6 +11,7 @@ This file stores my solutions for AoC 2023. I don't wake up early enough to actu
 |  13 |   7:30 |          53 |    13:11 |          82 |
 |  14 |   5:09 |        >100 |    18:29 |        >100 |
 |  15 |   5:11 |        >100 |    12:30 |        >100 |
+|  17 |  13:45 |          96 |    19:12 |          89 |
 
 ### Other tidbits
 
