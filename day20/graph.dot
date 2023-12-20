@@ -1,0 +1,170 @@
+digraph {
+  bc [color=red]
+  bd [color=red]
+  br [color=red]
+  broadcaster [color=red]
+  cd [color=red]
+  cf [color=red]
+  cq [color=red]
+  db [color=blue]
+  dg [color=red]
+  dk [color=red]
+  ds [color=red]
+  dt [color=blue]
+  fk [color=red]
+  fs [color=red]
+  gg [color=red]
+  gj [color=red]
+  gl [color=red]
+  gr [color=blue]
+  gt [color=red]
+  hf [color=red]
+  hh [color=blue]
+  hx [color=red]
+  jp [color=red]
+  jq [color=red]
+  kc [color=red]
+  kz [color=red]
+  ld [color=red]
+  lv [color=blue]
+  lz [color=blue]
+  ms [color=red]
+  np [color=red]
+  ns [color=red]
+  pc [color=red]
+  px [color=red]
+  qd [color=red]
+  qf [color=red]
+  qh [color=red]
+  qm [color=red]
+  qq [color=red]
+  rj [color=red]
+  rq [color=red]
+  rt [color=red]
+  rv [color=red]
+  rx [color=red]
+  sg [color=red]
+  st [color=blue]
+  th [color=red]
+  tn [color=blue]
+  tp [color=red]
+  tv [color=red]
+  vc [color=blue]
+  vm [color=red]
+  vn [color=red]
+  vr [color=red]
+  xl [color=red]
+  xv [color=red]
+  xz [color=red]
+  zf [color=red]
+  zj [color=red]
+  bc -> cd
+  bc -> gr
+  bd -> lz
+  bd -> vm
+  br -> lz
+  br -> qh
+  broadcaster -> pc
+  broadcaster -> sg
+  broadcaster -> qf
+  broadcaster -> gt
+  cd -> gg
+  cd -> gr
+  cf -> vc
+  cq -> hf
+  cq -> db
+  db -> np
+  db -> gt
+  db -> zj
+  db -> ns
+  db -> hh
+  db -> rt
+  dg -> rv
+  dk -> xl
+  ds -> dk
+  ds -> lz
+  dt -> lv
+  fk -> tv
+  fk -> vc
+  fs -> tp
+  gg -> rq
+  gg -> gr
+  gj -> lz
+  gj -> br
+  gl -> qd
+  gr -> tp
+  gr -> fs
+  gr -> px
+  gr -> st
+  gr -> th
+  gr -> sg
+  gt -> rt
+  gt -> db
+  hf -> db
+  hh -> lv
+  hx -> px
+  hx -> gr
+  jp -> cf
+  jp -> vc
+  jq -> vc
+  jq -> fk
+  kc -> cq
+  kc -> db
+  kz -> gl
+  kz -> vc
+  ld -> hx
+  ld -> gr
+  lv -> rx
+  lz -> dt
+  lz -> dk
+  lz -> qf
+  ms -> lz
+  ms -> bd
+  np -> vn
+  ns -> xv
+  pc -> jq
+  pc -> vc
+  px -> qq
+  qd -> dg
+  qf -> lz
+  qf -> vr
+  qh -> ms
+  qh -> lz
+  qm -> db
+  qm -> zf
+  qq -> th
+  qq -> gr
+  rj -> jp
+  rj -> vc
+  rq -> gr
+  rt -> ns
+  rv -> rj
+  rv -> vc
+  sg -> fs
+  sg -> gr
+  st -> lv
+  th -> bc
+  tn -> lv
+  tp -> ld
+  tv -> kz
+  vc -> gl
+  vc -> tv
+  vc -> pc
+  vc -> qd
+  vc -> tn
+  vc -> dg
+  vm -> lz
+  vn -> db
+  vn -> zj
+  vr -> xz
+  vr -> lz
+  xl -> gj
+  xl -> lz
+  xv -> qm
+  xv -> db
+  xz -> ds
+  xz -> lz
+  zf -> db
+  zf -> np
+  zj -> kc
+}

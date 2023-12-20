@@ -1,0 +1,14 @@
+digraph {
+  a [color=red]
+  b [color=red]
+  broadcaster [color=red]
+  con [color=blue]
+  inv [color=blue]
+  output [color=blue]
+  a -> inv
+  a -> con
+  b -> con
+  broadcaster -> a
+  con -> output
+  inv -> b
+}
